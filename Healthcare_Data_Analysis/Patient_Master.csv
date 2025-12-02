@@ -1,0 +1,101 @@
+PatientID,Name,Age,Gender,City,Disease
+P001,Chetan,37,M,Mumbai,Cold
+P002,Vikram,58,M,Kolhapur,Migraine
+P003,Asha,27,F,Nashik,Migraine
+P004,Rohit,28,F,Nashik,Skin Allergy
+P005,Rohit,22,F,Mumbai,Migraine
+P006,Vikram,59,M,Pune,Chest Pain
+P007,Rohit,72,F,Nashik,Headache
+P008,Rohit,19,F,Kolhapur,Fever
+P009,Chetan,10,M,Pune,Skin Allergy
+P010,Chetan,29,M,Kolhapur,Back Pain
+P011,Sneha,28,F,Kolhapur,Migraine
+P012,Sagar,19,M,Kolhapur,Headache
+P013,Vikram,75,M,Mumbai,Back Pain
+P014,Rohit,64,M,Kolhapur,Chest Pain
+P015,Sneha,53,F,Nashik,Cold
+P016,Sagar,67,F,Pune,Fever
+P017,Rahul,62,M,Kolhapur,Chest Pain
+P018,Vikram,62,M,Nashik,Skin Allergy
+P019,Rahul,23,M,Kolhapur,Chest Pain
+P020,Pooja,13,F,Kolhapur,Cold
+P021,Riya,45,F,Nashik,Migraine
+P022,Chetan,75,F,Mumbai,Fever
+P023,Pooja,67,M,Mumbai,Fracture
+P024,Rahul,43,F,Kolhapur,Fever
+P025,Asha,45,M,Pune,Back Pain
+P026,Rahul,39,F,Kolhapur,Cold
+P027,Chetan,44,F,Mumbai,Chest Pain
+P028,Sagar,69,M,Mumbai,Chest Pain
+P029,Riya,73,F,Nashik,Migraine
+P030,Rahul,71,F,Pune,Chest Pain
+P031,Sagar,68,M,Pune,Skin Allergy
+P032,Komal,27,M,Nashik,Migraine
+P033,Vikram,42,F,Pune,Headache
+P034,Asha,17,F,Mumbai,Skin Allergy
+P035,Komal,11,M,Mumbai,Migraine
+P036,Sagar,18,F,Kolhapur,Fever
+P037,Rohit,11,M,Pune,Fever
+P038,Sagar,33,M,Kolhapur,Skin Allergy
+P039,Rohit,47,M,Mumbai,Back Pain
+P040,Rahul,72,F,Mumbai,Chest Pain
+P041,Sagar,33,F,Nashik,Back Pain
+P042,Chetan,33,F,Mumbai,Skin Allergy
+P043,Sneha,57,M,Kolhapur,Cold
+P044,Riya,75,M,Nashik,Cold
+P045,Asha,47,M,Nashik,Skin Allergy
+P046,Komal,51,F,Pune,Fever
+P047,Rohit,31,F,Nashik,Chest Pain
+P048,Asha,25,F,Mumbai,Chest Pain
+P049,Chetan,46,F,Mumbai,Fever
+P050,Sagar,42,F,Mumbai,Fever
+P051,Pooja,67,M,Nashik,Migraine
+P052,Pooja,46,F,Nashik,Headache
+P053,Sagar,49,M,Pune,Migraine
+P054,Rohit,26,F,Pune,Back Pain
+P055,Asha,32,F,Kolhapur,Headache
+P056,Rohit,12,M,Nashik,Skin Allergy
+P057,Komal,48,F,Mumbai,Migraine
+P058,Sagar,32,M,Pune,Headache
+P059,Asha,38,M,Nashik,Fever
+P060,Vikram,26,M,Pune,Headache
+P061,Pooja,17,M,Nashik,Fever
+P062,Vikram,43,M,Nashik,Skin Allergy
+P063,Riya,50,F,Nashik,Skin Allergy
+P064,Rohit,69,M,Mumbai,Migraine
+P065,Komal,31,M,Pune,Chest Pain
+P066,Asha,27,F,Kolhapur,Skin Allergy
+P067,Vikram,23,F,Mumbai,Fracture
+P068,Vikram,47,F,Kolhapur,Chest Pain
+P069,Rahul,62,F,Kolhapur,Skin Allergy
+P070,Sagar,14,M,Pune,Headache
+P071,Komal,66,F,Nashik,Skin Allergy
+P072,Riya,69,M,Kolhapur,Chest Pain
+P073,Chetan,38,F,Mumbai,Migraine
+P074,Riya,11,M,Kolhapur,Skin Allergy
+P075,Vikram,73,M,Pune,Chest Pain
+P076,Asha,61,M,Nashik,Fracture
+P077,Rohit,42,F,Pune,Skin Allergy
+P078,Riya,57,M,Nashik,Migraine
+P079,Pooja,65,M,Kolhapur,Fever
+P080,Pooja,62,F,Mumbai,Skin Allergy
+P081,Vikram,67,M,Mumbai,Back Pain
+P082,Sneha,60,M,Kolhapur,Back Pain
+P083,Rohit,64,M,Mumbai,Chest Pain
+P084,Sagar,27,F,Kolhapur,Fracture
+P085,Asha,18,F,Pune,Migraine
+P086,Sagar,59,F,Nashik,Back Pain
+P087,Chetan,57,M,Kolhapur,Fever
+P088,Pooja,72,M,Mumbai,Fever
+P089,Riya,61,F,Kolhapur,Chest Pain
+P090,Asha,39,F,Mumbai,Fracture
+P091,Rahul,45,F,Nashik,Fracture
+P092,Rohit,53,F,Mumbai,Fracture
+P093,Vikram,37,F,Nashik,Skin Allergy
+P094,Sneha,24,M,Kolhapur,Fever
+P095,Vikram,23,F,Pune,Cold
+P096,Sagar,29,M,Pune,Migraine
+P097,Rohit,21,M,Nashik,Cold
+P098,Sagar,13,M,Kolhapur,Migraine
+P099,Riya,55,M,Pune,Chest Pain
+P100,Rahul,61,F,Pune,Fever

@@ -1,0 +1,21 @@
+HospitalID,HospitalName,City,Location,Specialization,Rating,Fees
+H001,Hospital_1,Kolhapur,Area_4,Orthopedic,3.7,705
+H002,Hospital_2,Pune,Area_12,General Physician,4.9,858
+H003,Hospital_3,Kolhapur,Area_3,General Physician,3.5,704
+H004,Hospital_4,Mumbai,Area_11,Cardiology,4.1,791
+H005,Hospital_5,Pune,Area_6,Dermatology,4.5,706
+H006,Hospital_6,Mumbai,Area_15,General Physician,4.7,344
+H007,Hospital_7,Kolhapur,Area_14,Orthopedic,3.8,490
+H008,Hospital_8,Mumbai,Area_2,Dermatology,4.5,456
+H009,Hospital_9,Nashik,Area_13,Dermatology,4.4,560
+H010,Hospital_10,Pune,Area_12,Cardiology,4.5,731
+H011,Hospital_11,Nashik,Area_4,Neurology,4.9,385
+H012,Hospital_12,Nashik,Area_3,Neurology,4.6,572
+H013,Hospital_13,Kolhapur,Area_15,General Physician,3.6,774
+H014,Hospital_14,Kolhapur,Area_10,Cardiology,3.4,614
+H015,Hospital_15,Pune,Area_1,Dermatology,4.8,548
+H016,Hospital_16,Kolhapur,Area_13,Neurology,3.4,608
+H017,Hospital_17,Pune,Area_3,Neurology,3.7,683
+H018,Hospital_18,Nashik,Area_16,General Physician,4.6,879
+H019,Hospital_19,Mumbai,Area_2,Orthopedic,3.5,657
+H020,Hospital_20,Mumbai,Area_11,Dermatology,4.5,330
